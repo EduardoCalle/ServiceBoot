@@ -21,6 +21,8 @@ public class ServiceBoot extends Service {
         Toast.makeText(this,"Servicio creado",Toast.LENGTH_LONG).show();  //Saca un mensaje temporal en la pantalla
         Log.d("SERVICEBOOT","Servicio creado");  //Postea mensajes en el LogCat
         // Esta es una prueba del servicio de GitHub
+        // pruelsjfs
+
     }
 
     @Override
